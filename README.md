@@ -1,4 +1,4 @@
-Project Completed: Implementation of a basic inventory system
+**Project Completed: Implementation of a basic inventory system**
 
 Efficient inventory management is pivotal for online businesses, particularly in the automotive sector. 
 This project entails the development of a streamlined inventory system for an online car store using Python, a versatile and robust programming language.
